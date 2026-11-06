@@ -65,7 +65,6 @@ Não é necessário instalar nada.
 - [ ] Adicionar interatividade com JavaScript
 - [ ] Fazer o formulário de feedback realmente enviar os dados
 - [ ] Substituir as imagens provisórias por fotos reais dos produtos
-- [ ] Tornar o layout responsivo para celulares
 
 ## 👤 Autor
 
